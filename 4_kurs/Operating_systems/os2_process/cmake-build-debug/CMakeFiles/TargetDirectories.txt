@@ -1,0 +1,3 @@
+/home/echufy/CLionProjects/os2_process/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/echufy/CLionProjects/os2_process/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/echufy/CLionProjects/os2_process/cmake-build-debug/CMakeFiles/os2.dir

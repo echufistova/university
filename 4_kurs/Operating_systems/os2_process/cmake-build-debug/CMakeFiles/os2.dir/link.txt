@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/os2.dir/main.c.o CMakeFiles/os2.dir/get_CPU_time.c.o  -o os2 

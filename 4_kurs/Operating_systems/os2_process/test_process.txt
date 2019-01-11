@@ -1,0 +1,300 @@
+for process with number : 22 the speaad is 0.000237
+
+
+for process with number : 22 the speaad is 0.000255
+
+
+for process with number : 10 the speaad is 0.000013
+
+
+for process with number : 10 the speaad is 0.000016
+
+
+for process with number : 21 the speaad is 0.000027
+
+
+for process with number : 21 the speaad is 0.000026
+
+
+for process with number : 21 the speaad is 0.000028
+
+
+for process with number : 21 the speaad is 0.000028
+
+
+for process with number : 24 the speaad is 0.000031
+
+
+for process with number : 24 the speaad is 0.000030
+
+
+for process with number : 5 the speaad is 0.000010
+
+
+for process with number : 5 the speaad is 0.000011
+
+
+for process with number : 8 the speaad is 0.000011
+
+
+for process with number : 8 the speaad is 0.000011
+
+
+for process with number : 20 the speaad is 0.000021
+
+
+for process with number : 20 the speaad is 0.000022
+
+
+for process with number : 7 the speaad is 0.000012
+
+
+for process with number : 7 the speaad is 0.000011
+
+
+for process with number : 14 the speaad is 0.000004
+
+
+for process with number : 14 the speaad is 0.000004
+
+
+for process with number : 12 the speaad is 0.000014
+
+
+for process with number : 12 the speaad is 0.000014
+
+
+for process with number : 16 the speaad is 0.000017
+
+
+for process with number : 16 the speaad is 0.000016
+
+
+for process with number : 9 the speaad is 0.000013
+
+
+for process with number : 9 the speaad is 0.000013
+
+
+for process with number : 13 the speaad is 0.000018
+
+
+for process with number : 13 the speaad is 0.000014
+
+
+for process with number : 25 the speaad is 0.000006
+
+
+for process with number : 25 the speaad is 0.000006
+
+
+for process with number : 24 the speaad is 0.000023
+
+
+for process with number : 24 the speaad is 0.000025
+
+
+for process with number : 17 the speaad is 0.000024
+
+
+for process with number : 17 the speaad is 0.000029
+
+
+for process with number : 19 the speaad is 0.000036
+
+
+for process with number : 19 the speaad is 0.000028
+
+
+for process with number : 3 the speaad is 0.000007
+
+
+for process with number : 3 the speaad is 0.000007
+
+
+for process with number : 16 the speaad is 0.000016
+
+
+for process with number : 16 the speaad is 0.000020
+
+
+for process with number : 0 the speaad is 0.000005
+
+
+for process with number : 0 the speaad is 0.000007
+
+
+for process with number : 6 the speaad is 0.000007
+
+
+for process with number : 6 the speaad is 0.000007
+
+
+for process with number : 3 the speaad is 0.000005
+
+
+for process with number : 3 the speaad is 0.000005
+
+
+for process with number : 21 the speaad is 0.000019
+
+
+for process with number : 21 the speaad is 0.000021
+
+
+for process with number : 4 the speaad is 0.000010
+
+
+for process with number : 4 the speaad is 0.000009
+
+
+for process with number : 10 the speaad is 0.000013
+
+
+for process with number : 10 the speaad is 0.000012
+
+
+for process with number : 3 the speaad is 0.000008
+
+
+for process with number : 3 the speaad is 0.000009
+
+
+for process with number : 2 the speaad is 0.000008
+
+
+for process with number : 2 the speaad is 0.000008
+
+
+for process with number : 26 the speaad is 0.000022
+
+
+for process with number : 26 the speaad is 0.000021
+
+
+for process with number : 5 the speaad is 0.000009
+
+
+for process with number : 5 the speaad is 0.000009
+
+
+for process with number : 13 the speaad is 0.000012
+
+
+for process with number : 13 the speaad is 0.000012
+
+
+for process with number : 22 the speaad is 0.000015
+
+
+for process with number : 22 the speaad is 0.000015
+
+
+for process with number : 16 the speaad is 0.000015
+
+
+for process with number : 16 the speaad is 0.000014
+
+
+for process with number : 7 the speaad is 0.000010
+
+
+for process with number : 7 the speaad is 0.000007
+
+
+for process with number : 17 the speaad is 0.000020
+
+
+for process with number : 17 the speaad is 0.000018
+
+
+for process with number : 14 the speaad is 0.000016
+
+
+for process with number : 14 the speaad is 0.000012
+
+
+for process with number : 13 the speaad is 0.000012
+
+
+for process with number : 13 the speaad is 0.000014
+
+
+for process with number : 26 the speaad is 0.000013
+
+
+for process with number : 26 the speaad is 0.000013
+
+
+for process with number : 7 the speaad is 0.000003
+
+
+for process with number : 7 the speaad is 0.000003
+
+
+for process with number : 20 the speaad is 0.000014
+
+
+for process with number : 20 the speaad is 0.000015
+
+
+for process with number : 14 the speaad is 0.000010
+
+
+for process with number : 14 the speaad is 0.000013
+
+
+for process with number : 20 the speaad is 0.000028
+
+
+for process with number : 20 the speaad is 0.000036
+
+
+for process with number : 10 the speaad is 0.000010
+
+
+for process with number : 10 the speaad is 0.000010
+
+
+for process with number : 23 the speaad is 0.000025
+
+
+for process with number : 23 the speaad is 0.000024
+
+
+for process with number : 7 the speaad is 0.000011
+
+
+for process with number : 7 the speaad is 0.000010
+
+
+for process with number : 9 the speaad is 0.000010
+
+
+for process with number : 9 the speaad is 0.000011
+
+
+for process with number : 21 the speaad is 0.000018
+
+
+for process with number : 21 the speaad is 0.000028
+
+
+for process with number : 24 the speaad is 0.000006
+
+
+for process with number : 24 the speaad is 0.000007
+
+
+for process with number : 1 the speaad is 0.000009
+
+
+for process with number : 1 the speaad is 0.000009
+
+
+for process with number : 25 the speaad is 0.000019
+
+
+for process with number : 25 the speaad is 0.000018
+
+

@@ -1,0 +1,104 @@
+const inputFileContent = {
+    alphabet        : ['a', 'b', 'c'],
+    startState      : 0,
+    endStates       : [4, 7, 9, 10],
+    graph           : [
+        {
+            prevState   : 0,
+            condition   : 'a',
+            nextState   : 1
+        },
+        {
+            prevState   : 0,
+            condition   : 'b',
+            nextState   : 7
+        },
+        {
+            prevState   : 1,
+            condition   : 'b',
+            nextState   : 2
+        },
+        {
+            prevState   : 2,
+            condition   : 'c',
+            nextState   : 3
+        },
+        {
+            prevState   : 3,
+            condition   : 'b',
+            nextState   : 4
+        },
+        {
+            prevState   : 5,
+            condition   : 'c',
+            nextState   : 4
+        },
+        {
+            prevState   : 6,
+            condition   : 'a',
+            nextState   : 4
+        },
+        {
+            prevState   : 4,
+            condition   : 'a',
+            nextState   : 7
+        },
+        {
+            prevState   : 4,
+            condition   : 'b',
+            nextState   : 7
+        },
+        {
+            prevState   : 4,
+            condition   : 'c',
+            nextState   : 7
+        },
+    ]
+
+};
+
+function findWord(alphabet, wordToFind, state, endStates, automat) {
+   let counter = 0;
+    let currentWord = '';
+    let findLetter = false;
+    let currentStateTops = findGraphTopsByPrevState(state, automat);
+    console.log('-------------------');
+    console.log('word: ' + currentWord);
+    console.log('counter: ' + counter);
+    if(counter === wordToFind.length && endStates.includes(state) && currentWord.length > wordToFind.length + 1) {
+        return true;
+    }
+    if(counter < wordToFind.length && !alphabet.includes(wordToFind[counter])) { //CHECK IF LETTER BELONGS TO ALPHABET
+        return false;
+    }
+    for(let i = 0; i < currentStateTops.length; i++) {
+        let counter2 = counter;
+        let findLetter2 = findLetter;
+        if(currentWord.length > 1 && counter < wordToFind.length && wordToFind[counter] === currentWord[currentWord.length - 1]) {
+            counter2++;
+            findLetter2 = true;
+        } else {
+            findLetter2 = false;
+        }
+        if(!findLetter2 && counter < wordToFind.length) {
+            counter2 = 0;
+        }
+        // console.log(currentStateTops[i]);
+        if(findWord(alphabet, wordToFind, currentStateTops[i].nextState, endStates, automat, counter2, `${currentWord}${currentStateTops[i].condition}`, findLetter2)) {
+            return true;
+        }
+    }
+    return false;
+}
+
+function findGraphTopsByPrevState(state, automat) {
+ let tops = [];
+ for(let i = 0 ; i < automat.length; i++) {
+     if(automat[i].prevState === state) {
+         tops.push(automat[i]);
+     }
+ }
+ return tops;
+}
+
+console.log(findWord(inputFileContent.alphabet, 'abcbacb', inputFileContent.startState, inputFileContent.endStates, inputFileContent.graph));
